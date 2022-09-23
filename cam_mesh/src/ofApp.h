@@ -62,5 +62,9 @@ public:
         "OF_PRIMITIVE_TRIANGLE_FAN"
     };
     
+private:
+    int xx, yy;
+    
+    
     
 };

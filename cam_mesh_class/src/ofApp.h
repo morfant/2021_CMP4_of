@@ -53,6 +53,7 @@ public:
         "OF_PRIMITIVE_TRIANGLE_FAN"
     };
     
+    
     Rectangle rect_1 = {0, 0};
     Rectangle rect_2 = {(float)camWidth, 0};
     Rectangle rect_3 = {(float)camWidth*2, 0};

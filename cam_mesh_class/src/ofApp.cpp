@@ -19,6 +19,7 @@ void ofApp::setup(){
     rect_8.setup(camWidth, camHeight);
     rect_9.setup(camWidth, camHeight);
     
+    cout << "hello" << endl;
     
 }
 
